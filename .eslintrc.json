@@ -7,7 +7,7 @@
     "plugin:react/recommended",
     "airbnb"
   ],
-  "overrides": [],
+
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
@@ -29,7 +29,7 @@
       }
     ],
     "react/react-in-jsx-scope": "off",
-    // "import/no-named-as-default": 0,
-    // "import/no-named-as-default-member": 0,
+    "import/no-named-as-default": 0,
+    "import/no-named-as-default-member": 0
   }
 }

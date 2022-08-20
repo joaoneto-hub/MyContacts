@@ -7,7 +7,6 @@ export const Container = styled.header`
   align-items: center;
 
 `;
-
 export const InputSearchContainer = styled.div`
   margin-top: 48px;
   width: 100%;
@@ -25,6 +24,5 @@ export const InputSearchContainer = styled.div`
     &::placeholder {
       color: #BCBCBC
     }
-
   }
 `;

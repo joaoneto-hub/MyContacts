@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Overlay = styled.div`
-  background: rgba(0, 0, 0, 0.06);
-  backdrop-filter: blur(5px);
+  background: rgba(0, 0, 0, 0.09);
+  backdrop-filter: blur(4px);
   position: absolute;
   width: 100%;
   height: 100%;

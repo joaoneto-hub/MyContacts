@@ -24,7 +24,6 @@ export default function ContactForm({ buttonLabel }) {
           <option value="instagram">Instagram</option>
         </Select>
       </FormGroup>
-
       <ButtonContainer>
         <Button type="submit">{buttonLabel}</Button>
       </ButtonContainer>
